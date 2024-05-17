@@ -62,7 +62,7 @@ session_start();
 <body>
     <div class="login-container">
         <form action="handleForm.php" method="POST">
-            <h1>Login to Joemike's Canteen</h1>
+            <h1>Login to Marthrifts Canteen</h1>
             <input type="text" placeholder="Username" name="username" required>
             <input type="password" placeholder="Password" name="password" required>
             <input type="submit" value="Login" name="loginBtn">
