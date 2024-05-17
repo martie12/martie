@@ -80,7 +80,7 @@ if (isset($_POST['logout'])) {
 </head>
 <body>
     <?php 
-    $welcomeMessage = isset($_SESSION['username']) ? "Welcome " . $_SESSION['username'] . " to Joemike Pogi's Canteen" : "Welcome to Joemike Pogi's Canteen!";
+    $welcomeMessage = isset($_SESSION['username']) ? "Welcome " . $_SESSION['username'] . " to Marthrifts Canteen" : "Welcome to Marthrifts Canteen!";
     ?>
 
     
